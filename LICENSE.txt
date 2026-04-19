@@ -1,29 +1,60 @@
-Falcon 9 Restrictive Use License
+Falcon 9 kOS Restrictive Use License
 
 Copyright (c) 2026. All rights reserved.
 
-Permission is granted only for private, personal use of this Falcon 9 kOS
-project within your own Kerbal Space Program installation.
+1. Definitions
 
-You may not, without prior written permission and clear credit to the original
-author:
+"Work" refers to all source code, scripts, configurations, and associated files contained within this project.
 
-- publish this work in public
-- use this work for commercial purposes
-- use this work for non-commercial public distribution
-- reupload, mirror, or redistribute this work in whole or in part
-- modify this work and redistribute the modified version
-- remove or obscure the original credit or license text
+"Public Content" refers to videos, livestreams, screenshots, or similar media shared on platforms such as YouTube, Twitch, or social media.
 
-You may show this project in screenshots, videos, livestreams, or other public
-demonstrations if:
+"Monetization" includes ANY direct or indirect form of revenue generation, including but not limited to ads, sponsorships, affiliate links, donations, memberships, or paid access.
 
-- you give clear visible credit to the original author
-- you do not monetize the content
-- you do not otherwise use the content for commercial gain
+2. Permitted Use
 
-This includes YouTube and similar platforms, provided the use stays
-non-monetized and credit is shown.
+You are granted a limited, non-exclusive, non-transferable license to:
 
-No warranty is provided. This project is supplied "as is", without any
-guarantee of correctness, safety, fitness for purpose, or support.
+- Use the Work privately within your own Kerbal Space Program installation
+- Modify the Work strictly for personal, non-public use
+
+3. Prohibited Use
+
+You may NOT, without prior written permission from the author:
+
+- Publish, upload, or distribute the Work in any form (including GitHub, file sharing services, or mod packs)
+- Share the Work publicly, whether in original or modified form
+- Redistribute modified versions of the Work
+- Mirror, rehost, or archive the Work elsewhere
+- Use the Work for any commercial purpose
+- Remove, alter, or obscure this license or attribution
+
+4. Public Display Exception (Strict Conditions)
+
+You may use the Work in Public Content ONLY if ALL of the following conditions are met:
+
+- The content is completely non-monetized
+- Monetization is disabled on the platform (e.g., YouTube monetization turned off)
+- The content does not include sponsorships, paid promotions, affiliate links, or donation requests
+- Clear and visible credit is given to the original author
+
+Credit MUST include:
+- The project name ("Falcon 9 kOS Project")
+- A visible reference to the original author
+- A link to the original repository (if applicable)
+
+- The Work itself is not shared, distributed, or made downloadable in any way
+
+5. No Commercial Use
+
+Any use of the Work that involves Monetization is strictly prohibited.
+
+6. Termination
+
+This license is automatically terminated if you breach any of its terms.
+Upon termination, you must immediately cease all use of the Work and delete all copies in your possession.
+
+7. No Warranty
+
+The Work is provided "as is", without warranty of any kind, express or implied, including but not limited to fitness for a particular purpose, accuracy, reliability, or safety.
+
+The author is not liable for any damages or issues arising from use of the Work.
