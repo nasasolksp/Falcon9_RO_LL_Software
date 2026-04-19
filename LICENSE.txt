@@ -1,0 +1,29 @@
+Falcon 9 Restrictive Use License
+
+Copyright (c) 2026. All rights reserved.
+
+Permission is granted only for private, personal use of this Falcon 9 kOS
+project within your own Kerbal Space Program installation.
+
+You may not, without prior written permission and clear credit to the original
+author:
+
+- publish this work in public
+- use this work for commercial purposes
+- use this work for non-commercial public distribution
+- reupload, mirror, or redistribute this work in whole or in part
+- modify this work and redistribute the modified version
+- remove or obscure the original credit or license text
+
+You may show this project in screenshots, videos, livestreams, or other public
+demonstrations if:
+
+- you give clear visible credit to the original author
+- you do not monetize the content
+- you do not otherwise use the content for commercial gain
+
+This includes YouTube and similar platforms, provided the use stays
+non-monetized and credit is shown.
+
+No warranty is provided. This project is supplied "as is", without any
+guarantee of correctness, safety, fitness for purpose, or support.

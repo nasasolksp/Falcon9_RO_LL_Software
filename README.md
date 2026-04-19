@@ -2,6 +2,14 @@
 
 This folder contains the Falcon 9 scripts.
 
+## License
+
+This project uses the restrictive license in `LICENSE.txt`.
+Do not publish, reupload, redistribute, or modify and redistribute it without
+credit and written permission.
+Public showcase videos are allowed if they stay non-monetized and show clear
+credit to the original author.
+
 Use it like this:
 
 1. Open the launch pad CPU.
