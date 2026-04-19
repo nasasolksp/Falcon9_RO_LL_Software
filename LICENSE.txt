@@ -38,7 +38,7 @@ You may use the Work in Public Content ONLY if ALL of the following conditions a
 - Clear and visible credit is given to the original author
 
 Credit MUST include:
-- The project name ("Falcon 9 kOS Project")
+- The project name ("NASA KSP Falcon 9 kOS Project")
 - A visible reference to the original author
 - A link to the original repository (if applicable)
 
